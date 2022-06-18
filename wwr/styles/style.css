@@ -241,6 +241,38 @@ footer .social img {
 }
 
 
+/*Css for the rivers page */
+.rivers-grid {
+    text-align: center;
+}
+
+.rivers-grid img {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(25, 43, 25);
+}
+#salmon-river {
+    display:inline-block;
+    width: 300px;
+    height: 100px;
+    margin: 10px;    
+}
+#gray-canyon {
+    display:inline-block;
+    width: 300px;
+    height: 100px;
+    margin: 5px;
+    
+}
+#grand-canyon {
+    display:inline-block;
+    width: 300px;
+    height: 100px;
+    margin: 5px;
+}
+
+
+
 @media screen and (max-width: 900px) {
 
     #hero,
